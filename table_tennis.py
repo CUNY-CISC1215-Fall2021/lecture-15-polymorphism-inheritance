@@ -112,7 +112,7 @@ if __name__ == "__main__":
         another = input("Add another? (y/n)")
         if another == "n":
             break
-        
+
     print()
 
     # Final output: Print the club roster. Notice (depending on input) that some
